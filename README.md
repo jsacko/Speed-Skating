@@ -57,7 +57,7 @@ This project is a standard C application requiring a basic C compiler.
 2. **Compile the source file using GCC:**
     
     ```bash
-    gcc -Wall Sprint5_SackoJulien.c -o speed_skating
+    gcc speed_skating_sprint5.c -o speed_skating.exe
     
     ```
     
@@ -66,7 +66,7 @@ This project is a standard C application requiring a basic C compiler.
 Run the compiled executable and enter commands interactively:
 
 ```bash
-./speed_skating
+./speed_skating.exe
 ```
 
 ## 👨‍💻 Author
