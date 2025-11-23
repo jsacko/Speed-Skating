@@ -1,6 +1,6 @@
 # ⛸️ Speed Skating Competition Manager (C)
 
-This repository contains a project developed in **C** to manage and score the Team Pursuit event in speed skating competitions. The application is designed to process various administrative and result-based commands to accurately track teams, record race times, and determine final rankings.
+This repository contains a school project developed in **C** in a agile environment to manage and score the Team Pursuit event in speed skating competitions. The application is designed to process various administrative and result-based commands to accurately track teams, record race times, and determine final rankings.
 
 The project emphasizes core principles of **structured programming**, **memory management**, and **robust data handling** within the constraints of the C language.
 
