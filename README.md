@@ -1,4 +1,5 @@
 # ⛸️ Speed Skating Competition Manager (C)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://www.iso.org/standard/74528.html)
 
 This repository contains a school project developed in **C** in a agile environment to manage and score the Team Pursuit event in speed skating competitions. The application is designed to process various administrative and result-based commands to accurately track teams, record race times, and determine final rankings.
 
